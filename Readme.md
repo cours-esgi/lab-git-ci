@@ -188,7 +188,7 @@ Le projet est un projet Java qu'il faut donc compiler. Ce projet nécessite le J
 
 Il est nécessaire d'installer deux étapes supplémentaires :
 * l'installation du JDK Java 8. L'action à utiliser : https://github.com/marketplace/actions/setup-java-jdk
-  * Il faudra renseigner comme version de Java `8`, et comme distribution `adopt`
+  * Il faudra renseigner comme version de Java `11`, et comme distribution `adopt`
 * la compilation avec Maven. L'action à utiliser : https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-java-with-maven
   * le goal maven à lancer est `package`
 
