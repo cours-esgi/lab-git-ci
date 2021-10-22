@@ -1,0 +1,5 @@
+La branche master (ou main pour les repos plus récent) est la branch principale qui est généré automatiquement lors de la création du repo. 
+
+La branch develop est une branch qui sert pour l'environnement de DEV, elle permet de vérifier que les dernières features ajouté ne gêne pas le bon fonctionnement.
+
+La branch strange est utilisé pour une question du TP / TD
