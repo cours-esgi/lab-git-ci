@@ -29,7 +29,6 @@ jobs:
       with:
         distribution: 'adopt' # See 'Supported distributions' for available options
         java-version: '11'
-      - run: java -cp java HelloWorldApp
 
       - name: Build with Maven
         run: mvn --batch-mode --update-snapshots package
