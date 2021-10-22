@@ -19,3 +19,4 @@ Pair programming, Coding Dojo, Technical Meeting
 Les équipes de développeurs présentent aux 'clients' l'avancement effectué durant le sprint en cours par les équipes de développeurs.
 
 ## Question 7: J'essaye d'accéder au site suivant : https://www.google.com/. Cependant, je n'arrive pas à y accéder depuis mon poste. Quelles sont les commandes que je peux lancer pour identifier ce qui m'empêche d'accéder à ce site ?
+ping www.google.com

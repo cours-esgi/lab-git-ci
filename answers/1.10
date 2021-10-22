@@ -1,0 +1,4 @@
+develop : La branche sur laquelle on travaille, WIP sur la prochaine release
+feature/cnguyen : part généralement de develop et permet à un développeur de travailler sa feature ou son US (user story)
+master : La branche de production
+strange : étrange ...
